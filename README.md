@@ -1,6 +1,6 @@
 # Password Cracking Lab Exercise
 
-**Author**: Tajul Azhar  
+**Author**: seTajul
 **Environment**: WSL Kali Linux  
 
 ## Objective
