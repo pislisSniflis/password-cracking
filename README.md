@@ -1,6 +1,7 @@
 # Password Cracking Lab Exercise
 
 **Author**: seTajul
+
 **Environment**: WSL Kali Linux  
 
 ## Objective
