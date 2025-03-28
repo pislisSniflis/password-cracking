@@ -4,6 +4,8 @@
 
 **Environment**: WSL Kali Linux  
 
+**Tools**: `John the Ripper`, `Hashcat`, `gzip`
+
 ## Objective
 This lab will teach you:
 - How password hashing works.
